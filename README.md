@@ -41,6 +41,15 @@ If you go Right, you might encounter helpful characters or obstacles that will t
 The game is structured in a way that will keep players engaged through suspense and critical thinking.
 
 Screenshots
+![Screenshot 2025-01-09 184835](https://github.com/user-attachments/assets/d5839426-87bd-4a14-9f7e-e6b656f32f77)
+
+
+![Screenshot 2025-01-09 185101](https://github.com/user-attachments/assets/b16466de-cff3-4ec1-a8b5-c155fcc1443b)
+
+
+![Screenshot 2025-01-09 190308](https://github.com/user-attachments/assets/0a0c2936-4eb4-4c1b-8e70-d763d3f65a3b)
+
+
 
 
 
