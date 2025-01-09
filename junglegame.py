@@ -28,7 +28,7 @@ elif (Number==2):
     print (number)
     print("You are going left")
     if (number==1):
-        help = int(input('\n',"Press 1 to take help from a Unknown Or Press 2 to not to take help from unknown"))
+        help = int(input("Press 1 to take help from a Unknown Or Press 2 to not to take help from unknown"))
         print (help)
         if (help==1):
             print ("YOU WIN")
