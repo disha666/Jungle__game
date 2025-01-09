@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fa41ac5b-4685-4682-9b1e-9dabc1bef1f5)***Jungle Game*** 
+***Jungle Game*** 
 
 
 Description
